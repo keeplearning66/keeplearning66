@@ -3,6 +3,4 @@
 - 🧑‍💻 I’m a frontend developer
 - 🌱 I’m very willing to participate in open source projects
 
-<div align="center">
-  <h2>Keep learning, become better.</h2>
-</div>
+<h3 align="center">Keep learning, become better.</h3>
